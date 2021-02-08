@@ -4,4 +4,5 @@ public class Persona {
 	
 	private String nombre;
 	private int numero;
+	private int hola;
 }
